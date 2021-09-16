@@ -1,0 +1,237 @@
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csprojAssemblyReference.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.patientmenu.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.mainmenu.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Login.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+C:\Users\Dell\Downloads\Telegram Desktop\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.mainmenu.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Login.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatepatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah-5-18-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csprojAssemblyReference.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.mainmenu.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Login.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\GUI wireframe submission\Fateen4_CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.mainmenu.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Login.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatepatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+C:\Users\Dell\Downloads\Telegram Desktop\Abdullah  1-6-2021-CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csprojAssemblyReference.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.mainmenu.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Login.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\Fateen-2-6-morn\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csprojAssemblyReference.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.mainmenu.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Login.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\alpha\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.mainmenu.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Login.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateemployee.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatepatient.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateroom.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+C:\Users\DELL\Downloads\Telegram Desktop\fateen 6-4-2021\CIE206_DBproject_0_4june6pm\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe.config
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\bin\Debug\CIE206_DBproject_0.pdb
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csprojAssemblyReference.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.addroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deletepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.deleteroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.mainmenu.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Login.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.Properties.Resources.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatecase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updatepatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.updateroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewcase.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewemployee.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewpatient.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.viewroom.resources
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.GenerateResource.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.csproj.CoreCompileInputs.cache
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.exe
+E:\zewail\3rd year\semester 2\CIE 206 Data base\projects\FINAL project\fateen 13june7pm\fateen 13june7pm\CIE206_DBproject_0\CIE206_DBproject_0\CIE206_DBproject_0\obj\Debug\CIE206_DBproject_0.pdb
