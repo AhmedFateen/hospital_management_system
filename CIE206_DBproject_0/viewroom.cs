@@ -77,7 +77,7 @@ namespace CIE206_DBproject_0
             //foreach (DataRow row in ww)
             //{
             //    int aa = Program.controllerObj.UpdateRoom(Convert.ToInt32(viewroomtextBox.Text), ee, Convert.ToInt32(row["capacity"]), row["r_type"].ToString());
-
+//
             //}
 
             DataTable dt = Program.controllerObj.ViewAllRoom();
